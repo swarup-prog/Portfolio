@@ -3,9 +3,9 @@ import { CustomButton } from ".";
 
 const Intro = () => {
   return (
-    <div>
+    <main className="px-[148px] sm:px-[24px]">
       <CustomButton title="Download Resume" />
-    </div>
+    </main>
   );
 };
 

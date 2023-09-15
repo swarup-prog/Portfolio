@@ -4,7 +4,7 @@ import React from "react";
 
 const CustomButton = ({ title, handleClick, btnType }: CustomButtonProps) => {
   return (
-    <button className="custom-button" onClick={handleClick}>
+    <button type={btnType} className="custom-button" onClick={handleClick}>
       {title}
     </button>
   );
