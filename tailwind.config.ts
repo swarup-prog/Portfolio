@@ -17,19 +17,6 @@ module.exports = {
         "secondary" : "#00A8CC",
         "dark" : "#21243D",
         "light" : "#8695A4",
-        // "primary": {
-        //   DEFAULT: "FF6464",
-        //   100: "#F5F8FF",
-        // },
-        // "secondary-orange": "#f79761",
-        // "light-white": {
-        //   DEFAULT: "rgba(59,60,152,0.03)",
-        //   100: "rgba(59,60,152,0.02)",
-        // },
-        // grey: "#747A88",
-      },
-      backgroundImage: {
-        
       },
     },
   },

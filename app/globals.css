@@ -10,6 +10,10 @@
   font-family: 'Heebo', sans-serif;
 }
 
-.title {
-  @apply text-lg
+.nav-title {
+  @apply text-xl font-medium
+}
+
+.custom-button {
+  @apply bg-primary text-white w-[208px] h-[47px] rounded-sm text-xl
 }
