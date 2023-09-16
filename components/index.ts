@@ -1,11 +1,13 @@
-import Intro from "./Intro";
 import Navbar from "./Navbar";
-import Footer from "./Footer";
+import Intro from "./Intro";
+import FeaturedWorks from "./FeaturedWorks";
 import CustomButton from "./CustomButton";
+import Footer from "./Footer";
 
 export {
-  Intro,
   Navbar,
-  Footer,
-  CustomButton
+  Intro,
+  FeaturedWorks,
+  CustomButton,
+  Footer
 }
