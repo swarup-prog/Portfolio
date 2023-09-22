@@ -1,5 +1,5 @@
 const FeaturedWorks = () => {
-  return <div>FeaturedWorks</div>;
+  return <main>FeaturedWorks</main>;
 };
 
 export default FeaturedWorks;

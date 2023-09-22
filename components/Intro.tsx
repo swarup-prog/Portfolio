@@ -3,7 +3,7 @@ import { CustomButton } from ".";
 
 const Intro = () => {
   return (
-    <main className="flex mt-[140px] mb-[71px] justify-center items-center gap-[115px]">
+    <main className="flex mt-[140px] mb-[71px] justify-center items-center gap-[115px] flex-row-reverse sm:flex-row flex-wrap">
       <div className="flex flex-col gap-8">
         <h1 className="intro-heading">
           Hi, I am Swarup,
